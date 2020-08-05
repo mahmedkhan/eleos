@@ -1,0 +1,23 @@
+﻿r_id,name,url,tags,vote_average,vote_count
+1,Headspace,https://www.headspace.com/,"[mindfulness, meditation, sleep, stress, anxiety, relax, breathing, calm, healthy]",4,3045
+2,Samaritans Website,https://www.samaritans.org/,"[information, suicide, suicidal, kill, harm, die]",5,4357
+3,NHS Suicide Help,https://www.nhs.uk/conditions/suicide/,"[information, suicide, suicidal, death, harm]",5,123
+4,NHS Self Harm Help,https://www.nhs.uk/conditions/self-harm/,"[self-harm, hurt, selfloathing, past-trauma",4,53
+5,Samaritans Support,https://www.samaritans.org/how-we-can-help/contact-samaritan/,"[helpline, phoneline, chat, suicide, suicidal, harm, die]",3,1094
+6,Young Minds: Grief and Loss,https://youngminds.org.uk/find-help/feelings-and-symptoms/grief-and-loss/,"[grief, loss, bereavement, grieve, death]",2,4556
+7,NHS: Bereavement and Young People,https://www.nhs.uk/conditions/stress-anxiety-depression/bereavement-and-young-people/,"[grief, loss, bereavement, grieve, death]",2,2434
+8,Grief Encounter Phoneline,https://www.griefencounter.org.uk/,"[helpline, grief, loss, bereavement, grieve, death]",4,232
+9,Young Minds: Bullying,https://youngminds.org.uk/find-help/feelings-and-symptoms/bullying/,"[information, bullying, cyberbullying, bully, cyberbully, torment]",5,21
+10,Childline,https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/,"[helpline, chat, phoneline, call, abuse, bullying, domestic]",5,3567
+11,The Mix: Support,https://www.themix.org.uk/get-support,"[drug, drugs, alcohol, drink, drunk]",4,5474
+12,NSPCC: Domestic Abuse,https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/domestic-abuse/,"[aggression, abuse, domestic, threats, rape]",2,4877
+13,NHS: Drugs,https://www.nhs.uk/live-well/healthy-body/drug-addiction-getting-help/,"[information, drugs, alcohol, drunk, high, addiction]",1,4276
+14,Young Minds: Drugs and Alcohol,https://youngminds.org.uk/find-help/looking-after-yourself/drugs-and-alcohol/,"[information, drugs, alcohol, drunk, high, addiction]",1,3876
+15,Childline: Relationships,https://www.childline.org.uk/info-advice/friends-relationships-sex/sex-relationships/relationships/,"[sex, sexual, relationship, girlfriend, boyfriend]",4,1074
+16,Kooth,https://www.kooth.com/,"[counselling, anonymous, chat, journal, forums]",4,5095
+17,Family Breakdown,https://hampshirecamhs.nhs.uk/issue/family-breakdown/,"[family, relatives]",3,5577
+18,Wysa,https://www.wysa.io/,"[mindfulness, meditation, stress, chat, therapy, wellness, productivity, relationship, writing, journaling, app]",5,245
+19,Stoic,https://www.stoicroutine.com/,"[app, journaling, meditation, breathing, mood tracking, reflection, productivity]",3,408
+20,MeeTwo,https://www.meetwo.co.uk/,"[app, forums, counselling]",2,574
+21,Smiling Mind,https://www.smilingmind.com.au/smiling-mind-app,"[app, meditation, relax]",3,345
+22,Grief: Support for Young People,https://apps.apple.com/gb/app/grief-support-for-young-people/id883195199,"[app, journaling, grief, loss, bereavement, grieve, death",4,5424
