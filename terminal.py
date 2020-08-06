@@ -67,7 +67,7 @@ elif action == "I have been feeling pretty stressed at school lately.":
     print("")
     print(dfL[['name', 'url']].head())
 
-elif action == "Find me resources like Headspace.":
+elif action == "Find me resources like Wysa.":
     count = CountVectorizer()
     count_matrix = count.fit_transform(df['tags'])
     cosine_sim = cosine_similarity(count_matrix, count_matrix)
@@ -87,7 +87,7 @@ elif action == "Find me resources like Headspace.":
         dfR = dfR[['name', 'url']]
         return dfR
 
-    dfR = recommend('Headspace')
+    dfR = recommend('Wysa')
     print(dfR)
 elif action == "Find me resources for grief that people similar to me have found useful.":
     from surprise import Reader

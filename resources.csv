@@ -34,7 +34,7 @@ r_id,name,url,tags,vote_average,vote_count
 33,Code Academy ,https://www.codecademy.com/,"[computing, computer, coding, code, education, course, online, progarmming]",1,3617
 34,Young Minds: Self Harm ,https://youngminds.org.uk/find-help/feelings-and-symptoms/self-harm/,"[information, self-harm, harm, cut]",2,475
 35,Student Health App,https://www.nhs.uk/apps-library/student-health-app/,"[app, student, school, health]",3,1609
-36,Headspace App ,https://www.headspace.com/headspace-meditation-app,"[app, relax, meditation, midnfullness, student, school, health, focus, stress]",1,2122
+36,Mind: Beating Exam Stress,https://www.mind.org.uk/information-support/your-stories/14-ways-to-beat-exam-stress/,"[information, exams, stress, students]",1,2122
 37,Mood Tools ,https://www.moodtools.org/,"[app, depression, down, mood tracking, depressed, journaling]",1,558
 38,Surviving Exams ,https://www.nhs.uk/conditions/stress-anxiety-depression/tips-on-surviving-exams/,"[information, exams, school, students, stress]",4,4597
 39,Catch It ,https://www.nhs.uk/apps-library/catch-it/,"[app, depression, down, mood tracking, depressed, journaling, reflection]",2,326
@@ -43,4 +43,3 @@ r_id,name,url,tags,vote_average,vote_count
 42,NHS: Student Stress,https://www.nhs.uk/conditions/stress-anxiety-depression/student-stress/,"[information, school, stress, students]",2,867
 43,Coder Dojo Club ,https://zen.coderdojo.com/find,"[computing, computer, coding, code, education, club, community, programming]",3,2777
 44,Future Learn Computing Courses,https://www.futurelearn.com/subjects/it-and-computer-science-courses/coding-programming,"[computing, computer, coding, code, education, course, online, programming, tutorials]",3,2975
-45,Mind: Beating Exam Stress,https://www.mind.org.uk/information-support/your-stories/14-ways-to-beat-exam-stress/,"[information, exams, stress, students]",4,5523
